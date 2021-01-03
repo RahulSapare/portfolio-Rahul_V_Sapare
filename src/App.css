@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+
+/********* NAVBAR *********/
+
+.abc {
+  border: 1px solid red;
+  width: 10rem;
+}
